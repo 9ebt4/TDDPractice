@@ -1,0 +1,11 @@
+C:\Users\Ethan\Desktop\Grand Circus\TA Practice\TDD testing\TDD testing\bin\Debug\net8.0\TDD testing.deps.json
+C:\Users\Ethan\Desktop\Grand Circus\TA Practice\TDD testing\TDD testing\bin\Debug\net8.0\TDD testing.dll
+C:\Users\Ethan\Desktop\Grand Circus\TA Practice\TDD testing\TDD testing\bin\Debug\net8.0\TDD testing.pdb
+C:\Users\Ethan\Desktop\Grand Circus\TA Practice\TDD testing\TDD testing\obj\Debug\net8.0\TDD testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Desktop\Grand Circus\TA Practice\TDD testing\TDD testing\obj\Debug\net8.0\TDD testing.AssemblyInfoInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\TA Practice\TDD testing\TDD testing\obj\Debug\net8.0\TDD testing.AssemblyInfo.cs
+C:\Users\Ethan\Desktop\Grand Circus\TA Practice\TDD testing\TDD testing\obj\Debug\net8.0\TDD testing.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\TA Practice\TDD testing\TDD testing\obj\Debug\net8.0\TDD testing.dll
+C:\Users\Ethan\Desktop\Grand Circus\TA Practice\TDD testing\TDD testing\obj\Debug\net8.0\refint\TDD testing.dll
+C:\Users\Ethan\Desktop\Grand Circus\TA Practice\TDD testing\TDD testing\obj\Debug\net8.0\TDD testing.pdb
+C:\Users\Ethan\Desktop\Grand Circus\TA Practice\TDD testing\TDD testing\obj\Debug\net8.0\ref\TDD testing.dll
